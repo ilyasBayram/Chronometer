@@ -23,7 +23,7 @@ namespace Timer
         bool Count = true;
         #endregion
 
-        #region strat/stop
+        #region start/stop
         private void button1_Click(object sender, EventArgs e)
         {
             if (Count==true)
